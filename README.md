@@ -1,5 +1,7 @@
-## What to do BE:
+From tutorial: https://www.youtube.com/watch?v=UHSipe7pSac
 
+
+## What to do BE:
 1. type: composer create-project --prefer-dist laravel/laravel name_of_project
 2. type: php artisan serve 
    1. Create DB and connect it with .env:
@@ -75,9 +77,9 @@
 33. Open app.vue
     1. add code to reload page 
 
-During development run:
-php artisan serve
-npm run dev
-npm run hot
+###During development run:
+* php artisan serve
+* npm run dev
+* npm run hot
 
 
